@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import First from "./components/First";
 import Second from "./components/Second";
 import Third from "./components/Third";
